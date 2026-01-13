@@ -98,10 +98,10 @@
 ```text
 Sarcasm-Enhanced-SetFit/
 ├── data/
-│   └── qwen_labeled_data.csv        # Annotated by Qwen LLM
+│   └── qwen_labeled_data.csv            # Annotated by Qwen LLM
 ├── notebooks/
-│   ├── 01_Model_Training.ipynb      # SetFit training pipeline
-│   └── 02_Evaluation_Analysis.ipynb # Visualization & A/B testing logic
+│   ├── 01_Model_Training.ipynb          # SetFit training pipeline
+│   └── 02_Evaluation_Analysis.ipynb     # Visualization & A/B testing logic
 ├── results/
 │   ├── aspect_confusion_matrix_A.png
 │   ├── aspect_confusion_matrix_B.png
